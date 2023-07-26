@@ -3,6 +3,10 @@
   flex-direction: column;
 }
 
+.columns p {
+  text-align: center;
+}
+
 .columns img {
   width: 100%;
 }
