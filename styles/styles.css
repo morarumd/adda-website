@@ -224,7 +224,7 @@ main .section {
   padding: 64px 16px;
 }
 
-centered-text p {
+.centered-text p {
   text-align: center;
 }
 
