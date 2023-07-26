@@ -12,3 +12,8 @@ footer .footer {
 footer .footer p {
   margin: 0;
 }
+
+footer img {
+  width: auto;
+  height: 32px;
+}
